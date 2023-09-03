@@ -1,1 +1,2 @@
 # odin-recipes
+This is a recipe website consisting of a main index page that links to different recipe pages. It is intended to help with my HTML knowledge, and will be revisited upon review of CSS and perhaps Javascript as well. I will update this README file as a mini-reflection on what I've learned through each stage of the process.
