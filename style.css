@@ -1,6 +1,34 @@
 * {
-    background-color: #fff;
-    color: #333;
+    background-color: #6d7eb0;
+    color: #d4e8ff;
     font-family: Cambria, Georgia, "Times New Roman", Times, serif;
+    text-align: center;
 }
 
+h1 {
+    color: #e6c0ff;
+}
+
+p, h2, h3, li {
+    text-align: left;
+}
+
+p {
+    color: #e8e8e8;
+}
+
+h2 {
+    font-size: 18.72px;
+}
+
+.color-palette {
+    color: #e6c0ff;
+    color: #6d7eb0;
+    color: #d4e8ff;
+    color: #a4f3d7;
+    color: #e8e8e8;
+}
+
+.homepage-main-header {
+    color: #a4f3d7;
+}
